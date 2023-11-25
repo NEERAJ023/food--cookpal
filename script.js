@@ -1,5 +1,13 @@
 let recipes=[
     {
+        "name": "BBQ Ribs",
+        "imageSrc": "https://source.unsplash.com/random?ribs",
+        "time": "70 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 3.6
+    },
+    {
         "name": "Veggie Delight",
         "imageSrc": "https://source.unsplash.com/random?veggies",
         "time": "30 min",
@@ -14,6 +22,14 @@ let recipes=[
         "type": "non-veg",
         "isLiked": false,
         "rating": 4.5
+    },
+    {
+        "name": "Cheese Pizza",
+        "imageSrc": "https://source.unsplash.com/random?pizza",
+        "time": "40 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 3.8
     },
     {
         "name": "Cheese Pizza",
